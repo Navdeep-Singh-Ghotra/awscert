@@ -7,6 +7,8 @@
 • Domain 6: Security and Compliance (17% of scored content) 
 
 ##### Domain 1: SDLC Automation
+<details>
+<summary> actionables</summary>
 Task Statement 1.1: Implement CI/CD pipelines.
 Knowledge of:
 • Software development lifecycle (SDLC) concepts, phases, and models
@@ -63,8 +65,11 @@ example, AWS Identity and Access Management [IAM], CodeArtifact)
 • Configuring deployment agents (for example, CodeDeploy agent)
 • Troubleshooting deployment issues
 • Using different deployment methods (for example, blue/green, canary) 
+</details>
 
 ##### Domain 2: Configuration Management and IaC
+<details>
+<summary> actionables</summary>
 Task Statement 2.1: Define cloud infrastructure and reusable components to
 provision and manage systems throughout their lifecycle.
 Knowledge of:
@@ -110,7 +115,11 @@ example, AWS SDKs, Lambda, AWS Step Functions)
 • Automating the configuration of software applications to the desired state
 (for example, OpsWorks, Systems Manager State Manager)
 • Maintaining software compliance (for example, Systems Manager)
+</details>
+
 ##### Domain 3: Resilient Cloud Solutions
+<details>
+<summary> actionables</summary>
 Task Statement 3.1: Implement highly available solutions to meet resilience and
 business requirements.
 Knowledge of:
@@ -157,9 +166,12 @@ Amazon RDS, Amazon Aurora, Route 53, CloudFront)
 recovery strategies (for example, AWS Backup, Amazon S3, Systems
 Manager)
 • Configuring a load balancer to recover from backend failure 
+</details>
 
 
 ##### Domain 4: Monitoring and Logging
+<details>
+<summary> actionables</summary>
 Task Statement 4.1: Configure the collection, aggregation, and storage of logs and
 metrics.
 Knowledge of:
@@ -231,8 +243,11 @@ pattern
 Systems Manager Agent [SSM Agent], CloudWatch agent)
 • Configuring AWS Config rules to remediate issues
 • Configuring health checks (for example, Route 53, ALB) 
+</details>
 
 ##### Domain 5: Incident and Event Response
+<details>
+<summary> actionables</summary>
 Task Statement 5.1: Manage event sources to process, notify, and take action in
 response to events.
 Knowledge of:
@@ -264,8 +279,11 @@ Skills in:
 CodeDeploy, CloudFormation, CloudWatch synthetic monitoring)
 • Analyzing incidents regarding failed processes (for example, auto scaling,
 Amazon ECS, Amazon EKS) 
+</details>
 
 ##### Domain 6: Security and Compliance
+<details>
+<summary> actionables</summary>
 Task Statement 6.1: Implement techniques for identity and access management at
 scale.
 Knowledge of:
@@ -318,4 +336,5 @@ Skills in:
 • Configuring alerting based on unexpected or anomalous security events
 • Configuring service and application logging (for example, CloudTrail,
 CloudWatch Logs)
-• Analyzing logs, metrics, and security findings 
+• Analyzing logs, metrics, and security findings
+</details>
